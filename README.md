@@ -48,4 +48,6 @@
   QQ
 
 ## Mac
-	
+	Spacemacs
+		mac上spacemacs体验小记
+		http://www.cnblogs.com/pcy0/archive/2016/01/05/note-of-spacemacs-on-mac.html
