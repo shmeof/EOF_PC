@@ -1,11 +1,8 @@
 # EOF_PC
-### Windows
+## Windows
   Spacemacs
-  
   Notepadd++
-  
   EditPlus
-
 
   Android Studio
   IntelliJ IDEA Community Edition 2016.1.3
