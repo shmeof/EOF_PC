@@ -28,6 +28,8 @@
   Google Chrome
   Mozilla Firefox
   
+  Skype for Business
+  
   Microsoft Office Word
   Microsoft Office PowerPoint
   Microsoft Office Excel
