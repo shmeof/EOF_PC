@@ -27,6 +27,10 @@
   
   	Google Chrome
   	Mozilla Firefox
+	
+  	WinRAR
+	7-Zip
+  
   
   	Skype for Business
   
@@ -42,11 +46,7 @@
   	Enterprise Architect 汉化版
   
   
-  	WinRAR
-	7-Zip
-  
   	91助手
-  
   	微信
   	QQ
 
