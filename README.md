@@ -1,14 +1,14 @@
 # EOF_PC
 ## Windows
-  Spacemacs
-  Notepadd++
-  EditPlus
+	Spacemacs
+	Notepadd++
+ 	EditPlus
 
-  Android Studio
-  IntelliJ IDEA Community Edition 2016.1.3
-  JetBrains PyCharm 2016.2.3
-  JetBrains PypStorm 2017.1
-  Eclipse
+  	Android Studio
+  	IntelliJ IDEA Community Edition 2016.1.3
+  	JetBrains PyCharm 2016.2.3
+ 	JetBrains PypStorm 2017.1
+  	Eclipse
   
   SecureCRT 8.1
   WinSCP 
