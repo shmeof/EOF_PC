@@ -41,7 +41,7 @@
   	Enterprise Architect 8
   	Enterprise Architect 汉化版
   
-  	7-Zip
+  	 7-Zip
   	WinRAR
   
   	91助手
