@@ -46,9 +46,9 @@
   	Enterprise Architect 汉化版
   
   
-  	91助手
-  	微信
-  	QQ
+	91助手
+	微信
+	QQ
 
 ## Mac
 	Spacemacs
