@@ -75,6 +75,7 @@
 		http://www.jianshu.com/p/98f53faabbff
 
 	Moom：窗口管理
+		http://www.macappbox.com/software/Moom/
 
 	Mac快捷键
 		全屏/取消全屏：control + command + f
