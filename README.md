@@ -59,7 +59,10 @@
 
 	AndroidStudio
 		http://www.jianshu.com/p/eb66c5132743
+		
 		https://www.cnblogs.com/zl1991/p/6378060.html
+		
+		http://blog.csdn.net/xiabing082/article/details/54376461
 
 	Intellij Idea
 		http://blog.csdn.net/qq_27676247/article/details/74639304
