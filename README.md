@@ -80,6 +80,9 @@
 
 	Moom：窗口管理
 		http://www.macappbox.com/software/Moom/
+		
+	Markdown编辑器：
+		https://typora.io/
 
 	Mac快捷键
 		全屏/取消全屏：control + command + f
