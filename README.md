@@ -44,14 +44,29 @@
   
   	Enterprise Architect 8
   	Enterprise Architect 汉化版
-  
-  
+    
 	91助手
 	微信
 	QQ
 
 ## Mac
-	Spacemacs
+    iTerm
+    	快捷键：
+	    	进入设置：command + ,
+	    	快速唤出：进入设置 -> Keys
+	    	command + d：垂直分割；
+	     	command + shift + d：水平分割
+
+    	mac－改造你的terminal
+    	http://www.jianshu.com/p/bb1c97269b11
+
+	    使用iTerm2替代Mac自带Terminal终端
+	    http://blog.csdn.net/chenyufeng1991/article/details/50492626
+
+	    mac用iterm2实现ssh，怎么像SecureCRT一样保存IP和账号密码？
+	    https://www.zhihu.com/question/30640159?sort=created
+
+    Spacemacs
 		mac上spacemacs体验小记
 		http://www.cnblogs.com/pcy0/archive/2016/01/05/note-of-spacemacs-on-mac.html
 		
@@ -82,5 +97,13 @@
 		http://www.macappbox.com/software/Moom/
 
 	Mac快捷键
+        显示各窗口：F3
+        显示桌面： command + F3
+        隐藏应用程序： command + H
+        切换程序： command + tab
+        切换程序内窗口： command + ～
+        关闭程序： comnmand + Q
+        关闭程序内窗口： command + W
 		全屏/取消全屏：control + command + f
 		新建一个窗口：command + n
+        桌面快捷键： http://blog.csdn.net/win_ann/article/details/3757987
