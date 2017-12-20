@@ -79,6 +79,7 @@
 	https://twitter.com/alfredapp/status/42596148074131456 
 	Alfred Mega 如果在某台Mac上不再使用了，可使用deactivate来迁移License，忘了解绑的话也可发邮件到info@alfredapp寻求帮助 
 	http://www.alfredforum.com/topic/2692-move-license-to-new-computer/
+	
 	Spacemacs
 		mac上spacemacs体验小记
 		http://www.cnblogs.com/pcy0/archive/2016/01/05/note-of-spacemacs-on-mac.html
