@@ -56,6 +56,9 @@
 	    	快速唤出：进入设置 -> Keys
 	    	command + d：垂直分割；
 	     	command + shift + d：水平分割
+		ctrl + w：删除一个单词
+		ctrl + u：删除当前行
+		ctrl + l：清屏
 
     	mac－改造你的terminal
     	http://www.jianshu.com/p/bb1c97269b11
@@ -81,7 +84,7 @@
 	http://www.alfredforum.com/topic/2692-move-license-to-new-computer/
 	
 	Alfred 各种workflow
-	http://alfredworkflow.com/
+	
 
 	Spacemacs
 		mac上spacemacs体验小记
