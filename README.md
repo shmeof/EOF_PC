@@ -84,8 +84,8 @@
 	http://www.alfredforum.com/topic/2692-move-license-to-new-computer/
 	
 	Alfred 各种workflow
+	https://github.com/shmeof/eof_alfred
 	
-
 	Spacemacs
 		mac上spacemacs体验小记
 		http://www.cnblogs.com/pcy0/archive/2016/01/05/note-of-spacemacs-on-mac.html
@@ -130,8 +130,8 @@
         切换程序内窗口： command + ～
         关闭程序： comnmand + Q
         关闭程序内窗口： command + W
-		全屏/取消全屏：control + command + f
-		新建一个窗口：command + n
+	全屏/取消全屏：control + command + f
+	新建一个窗口：command + n
         桌面快捷键： http://blog.csdn.net/win_ann/article/details/3757987
         
     词典/屏幕取词：
