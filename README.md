@@ -85,6 +85,7 @@
 	
 	Alfred 各种workflow
 	https://github.com/shmeof/eof_alfred
+	https://www.alfredforum.com/forum/3-share-your-workflows/
 	
 	Spacemacs
 		mac上spacemacs体验小记
