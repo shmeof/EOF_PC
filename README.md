@@ -87,6 +87,10 @@
 	https://github.com/shmeof/eof_alfred
 	https://www.alfredforum.com/forum/3-share-your-workflows/
 	
+	Alfred Snippet
+	https://www.alfredapp.com/extras/snippets/
+	http://joelcalifa.com/blog/alfred-emoji-snippet-pack/#install
+	
 	Spacemacs
 		mac上spacemacs体验小记
 		http://www.cnblogs.com/pcy0/archive/2016/01/05/note-of-spacemacs-on-mac.html
