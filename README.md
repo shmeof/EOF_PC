@@ -91,6 +91,9 @@
 	https://www.alfredapp.com/extras/snippets/
 	http://joelcalifa.com/blog/alfred-emoji-snippet-pack/#install
 	
+	Alfred 剪切板
+	https://sspai.com/post/34344
+	
 	Spacemacs
 		mac上spacemacs体验小记
 		http://www.cnblogs.com/pcy0/archive/2016/01/05/note-of-spacemacs-on-mac.html
