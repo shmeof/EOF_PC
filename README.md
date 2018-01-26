@@ -122,6 +122,9 @@
 	Markdown编辑器：
 		https://typora.io/
 
+	Postman：发包工具
+		https://www.getpostman.com/apps
+
 	Mac快捷键
         显示各窗口：F3
         显示桌面： command + F3
