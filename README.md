@@ -112,6 +112,12 @@
 	Iintellij Idea 注册码
 		http://idea.lanyus.com
 
+	UML建模工具：
+		StartUML
+			下载： http://staruml.io/download
+			破解：http://blog.csdn.net/mergades/article/details/46662413
+			错误处理：https://my.oschina.net/youa
+
 	JDK
 		http://blog.csdn.net/yangaiyu/article/details/72857144
 
