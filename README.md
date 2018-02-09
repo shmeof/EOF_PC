@@ -134,6 +134,9 @@
 		Beyond Compare 4
 		http://www.scootersoftware.com/download.php
 
+	SQLite在iTerm下：
+		cd到特定目录，执行：sqlite3 ***.db
+
 	SQLite可视化查看工具：
 		SQLiteManager	
 		http://www.sqlabs.net/sqlitemanager.php 
