@@ -134,6 +134,12 @@
 		Beyond Compare 4
 		http://www.scootersoftware.com/download.php
 
+	SQLite可视化查看工具：
+		SQLiteManager	
+		http://www.sqlabs.net/sqlitemanager.php 
+   		注册码：SQLM3-29H3A-23383-LDCZD
+		官网：http://www.sqlite.org/
+	
 	Markdown编辑器：
 		https://typora.io/
 
