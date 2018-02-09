@@ -130,9 +130,10 @@
 		Alfred 购买
 		https://www.waerfa.com/37283
 
-	Moom：窗口管理
-		http://www.macappbox.com/software/Moom/
-		
+	文件Diff工具：
+		Beyond Compare 4
+		http://www.scootersoftware.com/download.php
+
 	Markdown编辑器：
 		https://typora.io/
 
