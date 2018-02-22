@@ -163,3 +163,4 @@
         
     词典/屏幕取词：
         欧路词典：https://www.zhihu.com/question/20461259 
+	激活Light Peek 的快捷键设置为： Shift + Space
