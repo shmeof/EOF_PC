@@ -18,13 +18,17 @@
 
 ### OutLook - 邮件
 
+```
+
+```
+
 
 
 ### Chrome - 浏览器
 
 ```
 登录Chrome账号，同步所有信息（标签、插件等）。
-使用Alfred即可直接打开Chrome标签。
+使用Alfred Web Bookmarks即可直接打开Chrome标签。
 ```
 
 
@@ -121,11 +125,15 @@ http://www.jianshu.com/p/98f53faabbff
 
 #### iTerm下使用SQLite
 
-	cd到特定目录，执行：sqlite3 ***.db
+	cd到数据库文件"***.db"所在目录，执行：sqlite3 ***.db
 
 
 
 ### Vim - 编辑器之神
+
+```
+
+```
 
 
 
@@ -161,15 +169,23 @@ http://www.jianshu.com/p/98f53faabbff
 
 ### PyCharm CE - Python IDE
 
+```
+
+```
+
 
 
 ### PhpStorm - Php IDE
+
+```
+
+```
 
 
 
 ### JDK - Java
 
-​	[[Mac下如何安装JDK](http://www.cnblogs.com/quickcodes/p/5127101.html)](http://blog.csdn.net/yangaiyu/article/details/72857144)
+​	[Mac下如何安装JDK](http://www.cnblogs.com/quickcodes/p/5127101.html)
 
 
 
