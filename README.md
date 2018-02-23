@@ -2,7 +2,7 @@
 
 ## Mac
 
-### Mac快捷键
+### Mac快捷键 - 全局快捷键
 
     显示各窗口：F3
     显示桌面： command + F3
@@ -14,7 +14,45 @@
     全屏/取消全屏：control + command + f
     新建一个窗口：command + n
     桌面快捷键： http://blog.csdn.net/win_ann/article/details/3757987
-### Alfred - 全局快捷操作
+
+
+### OutLook - 邮件
+
+
+
+### Chrome - 浏览器
+
+```
+登录Chrome账号，同步所有信息（标签、插件等）。
+使用Alfred即可直接打开Chrome标签。
+```
+
+
+
+### Evernote - 笔记
+
+```
+登录Evernote账号，同步所有信息。
+使用Alfred Evernote Workflows即可搜索到Evernote的笔记内容。
+```
+
+
+
+### 欧陆词典 - 翻译/屏幕取词
+
+#### 快捷键
+
+```
+"激活Light Peek"的快捷键设置为： Shift + Space
+```
+
+#### 其他
+
+​	[Mac 有哪些好用的屏幕取词翻译工具？](https://www.zhihu.com/question/20461259)
+
+
+
+### Alfred - 全局快捷工具
 
 #### Alfred快捷键
 
@@ -27,33 +65,25 @@ http://www.jianshu.com/p/98f53faabbff
 
 #### Alfred购买
 
-[Alfred Mega 最多可使用4台机器](https://twitter.com/alfredapp/status/42596148074131456)
+​	[Alfred Mega 最多可使用4台机器](https://twitter.com/alfredapp/status/42596148074131456)
+​	[Alfred Mega 如果在某台Mac上不再使用了，可使用deactivate来迁移License，忘了解绑的话也可发邮件到info@alfredapp寻求帮助 ](http://www.alfredforum.com/topic/2692-move-license-to-new-computer/)
 
-[Alfred Mega 如果在某台Mac上不再使用了，可使用deactivate来迁移License，忘了解绑的话也可发邮件到info@alfredapp寻求帮助 ](http://www.alfredforum.com/topic/2692-move-license-to-new-computer/)
-
-[MacTips 专栏：Alfred 3.0 Beta 之体验与授权种类选择](https://www.waerfa.com/37283)
+​	[MacTips 专栏：Alfred 3.0 Beta 之体验与授权种类选择](https://www.waerfa.com/37283)
 
 #### Alfred配置
 
-[eof的Alfred配置](https://github.com/shmeof/eof_alfred)
+​	[eof的Alfred配置](https://github.com/shmeof/eof_alfred)
 
-[Alfred-Workflows分享](https://www.alfredforum.com/forum/3-share-your-workflows/)
+​	[Alfred-Workflows分享](https://www.alfredforum.com/forum/3-share-your-workflows/)
 
 #### Alfred剪切板
 
-[Alfred Snippet - Alfred剪切板](https://www.alfredapp.com/extras/snippets/)
-[Alfred Snipped - 墨迹表情安装](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/#install)
+​	[Alfred Snippet - Alfred剪切板](https://www.alfredapp.com/extras/snippets/)
+​	[Alfred Snipped - 墨迹表情安装](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/#install)
 
 #### Alfred其他
 
-[Alfred 3 中的惊喜](https://sspai.com/post/34344)
-
-
-
-### 欧陆词典 - 翻译/屏幕取词
-
-​	[Mac 有哪些好用的屏幕取词翻译工具？](https://www.zhihu.com/question/20461259)
-​	激活Light Peek 的快捷键设置为： Shift + Space
+​	[Alfred 3 中的惊喜](https://sspai.com/post/34344)
 
 
 
@@ -69,23 +99,25 @@ http://www.jianshu.com/p/98f53faabbff
 删除一个单词：ctrl + w
 删除当前行：ctrl + u
 清屏：ctrl + l
+双击：选中当前单词（选中即复制）
+三击：选中当前行（选中即复制）
 ```
 
 #### iTerm配置
 
-[mac－改造你的terminal](http://www.jianshu.com/p/bb1c97269b11)
+​	[mac－改造你的terminal](http://www.jianshu.com/p/bb1c97269b11)
 
-[Mac下终端配置（item2 + oh-my-zsh + solarized配色方案）](https://www.cnblogs.com/weixuqin/p/7029177.html)
+​	[Mac下终端配置（item2 + oh-my-zsh + solarized配色方案）](https://www.cnblogs.com/weixuqin/p/7029177.html)
 
-[使用iTerm2替代Mac自带Terminal终端](http://blog.csdn.net/chenyufeng1991/article/details/50492626)
+​	[使用iTerm2替代Mac自带Terminal终端](http://blog.csdn.net/chenyufeng1991/article/details/50492626)
 
-[Mac OS X 终端里使用 Solarized 配色方案](https://www.vpsee.com/2013/09/use-the-solarized-color-theme-on-mac-os-x-terminal/)
+​	[Mac OS X 终端里使用 Solarized 配色方案](https://www.vpsee.com/2013/09/use-the-solarized-color-theme-on-mac-os-x-terminal/)
 
-[Mac下的效率工具autojump](http://www.barretlee.com/blog/2015/03/30/autojump-in-mac/)
+​	[Mac下的效率工具autojump](http://www.barretlee.com/blog/2015/03/30/autojump-in-mac/)
 
 #### iTerm下使用ssh
 
-[mac用iterm2实现ssh，怎么像SecureCRT一样保存IP和账号密码？](https://www.zhihu.com/question/30640159?sort=created)
+​	[mac用iterm2实现ssh，怎么像SecureCRT一样保存IP和账号密码？](https://www.zhihu.com/question/30640159?sort=created)
 
 #### iTerm下使用SQLite
 
@@ -99,35 +131,43 @@ http://www.jianshu.com/p/98f53faabbff
 
 ### Spacemacs - 神的编辑器
 
-[mac上spacemacs体验小记](http://www.cnblogs.com/pcy0/archive/2016/01/05/note-of-spacemacs-on-mac.html)
+​	[mac上spacemacs体验小记](http://www.cnblogs.com/pcy0/archive/2016/01/05/note-of-spacemacs-on-mac.html)
 
 
 
 ###  Typora - Markdown编辑器
 
-​	https://typora.io/
+​	[Typora下载](https://typora.io/)
 
 
 
 ###  AndroidStudio - Android IDE
 
-[Android Studio Mac 下卸载与安装](http://www.jianshu.com/p/eb66c5132743)
+​	[Android Studio Mac 下卸载与安装](http://www.jianshu.com/p/eb66c5132743)
 
-[为Android Studio设置HTTP代理](http://www.cnblogs.com/zl1991/p/6378060.html)
+​	[为Android Studio设置HTTP代理](http://www.cnblogs.com/zl1991/p/6378060.html)
 
-[Android studio使用---WiFi ADB使用以及连接手机调试](http://blog.csdn.net/xiabing082/article/details/54376461)
+​	[Android studio使用---WiFi ADB使用以及连接手机调试](http://blog.csdn.net/xiabing082/article/details/54376461)
 
 
 
 ###  Intellij Idea - IDE
 
-[IntelliJ IDEA（2017）下载并破解](http://blog.csdn.net/qq_27676247/article/details/74639304)
+​	[IntelliJ IDEA（2017）下载并破解](http://blog.csdn.net/qq_27676247/article/details/74639304)
 
-[Iintellij Idea 注册码](http://idea.lanyus.com)
+​	[Iintellij Idea 注册码](http://idea.lanyus.com)
 
 
 
-### JDK
+### PyCharm CE - Python IDE
+
+
+
+### PhpStorm - Php IDE
+
+
+
+### JDK - Java
 
 ​	[[Mac下如何安装JDK](http://www.cnblogs.com/quickcodes/p/5127101.html)](http://blog.csdn.net/yangaiyu/article/details/72857144)
 
@@ -145,7 +185,7 @@ http://www.jianshu.com/p/98f53faabbff
 
 
 
-### SQLiteManager - SQLite可视化查看工具
+### SQLiteManager - SQLite可视化
 
 ​	[SQLiteManager下载](http://www.sqlabs.net/sqlitemanager.php) 注册码：SQLM3-29H3A-23383-LDCZD
 
@@ -161,57 +201,58 @@ http://www.jianshu.com/p/98f53faabbff
 
 ​	[错误处理：max connection attempts reached](https://my.oschina.net/youa)
 
-    	
+
+
 ## Windows
 
 ```
-	Vim / Spacemacs
-		https://emacs-china.org/t/topic/2447/4
-	Notepadd++
-	EditPlus
+Vim / Spacemacs
+	https://emacs-china.org/t/topic/2447/4
+Notepadd++
+EditPlus
 
-  	Android Studio
-  	IntelliJ IDEA Community Edition 2016.1.3
-  	JetBrains PyCharm 2016.2.3
- 	JetBrains PypStorm 2017.1
-  	Eclipse
+Android Studio
+IntelliJ IDEA Community Edition 2016.1.3
+JetBrains PyCharm 2016.2.3
+JetBrains PypStorm 2017.1
+Eclipse
 
-  	SecureCRT 8.1
-  	WinSCP 
-  	WireShark
+SecureCRT 8.1
+WinSCP 
+WireShark
 
-  	Git
-  	Subversion
+Git
+Subversion
 
-  	SQLiteSpy
-  	RegexBuddy 4 DEMO 4.1.3
+SQLiteSpy
+RegexBuddy 4 DEMO 4.1.3
 
-  	Beyond Compare
+Beyond Compare
 
-  	Cmd Markdown
-  	Evernote
+Cmd Markdown
+Evernote
 
-  	Google Chrome
-  	Mozilla Firefox
+Google Chrome
+Mozilla Firefox
 
-  	WinRAR
+WinRAR
 
-	7-Zip
+7-Zip
 
-  	Skype for Business
+Skype for Business
 
-  	Microsoft Office Word
-  	Microsoft Office PowerPoint
-  	Microsoft Office Excel
-  	Microsoft Office Outlook
-  	Microsoft Office Access
+Microsoft Office Word
+Microsoft Office PowerPoint
+Microsoft Office Excel
+Microsoft Office Outlook
+Microsoft Office Access
 
-  	Skype for Business 2016
+Skype for Business 2016
 
-  	Enterprise Architect 8
-  	Enterprise Architect 汉化版
+Enterprise Architect 8
+Enterprise Architect 汉化版
   	
-  	91助手
-	微信
-	QQ
+91助手
+微信
+QQ
 ```
