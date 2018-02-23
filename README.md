@@ -15,7 +15,6 @@
     新建一个窗口：command + n
     桌面快捷键： http://blog.csdn.net/win_ann/article/details/3757987
 
-
 ### OutLook - 邮件
 
 ```
@@ -147,19 +146,25 @@ http://www.jianshu.com/p/98f53faabbff
 
 ###  Typora - Markdown编辑器
 
+#### Typora安装
+
 ​	[Typora下载](https://typora.io/)
 
+#### Typora主题
 
+​	[Typora主题下载](http://theme.typora.io/)
+
+​	[Typora如何安装主题](http://theme.typora.io/doc/)
 
 ### Gitbook - Git & Markdown & 写书
+
+#### Gitbook安装
 
 ​	[Mac环境安装Gitbook，并导出PDF教程](https://www.jianshu.com/p/4824d216ad10)
 
 ​	[GitBook Editor下载](http://www.pc6.com/mac/238113.html)
 
 ​	[GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html)
-
-
 
 ###  AndroidStudio - Android IDE
 
@@ -181,9 +186,7 @@ http://www.jianshu.com/p/98f53faabbff
 
 ### PyCharm CE - Python IDE
 
-```
-
-```
+[PyCharm下载](https://www.jetbrains.com/pycharm/download/#section=mac)
 
 
 
