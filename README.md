@@ -119,6 +119,8 @@ http://www.jianshu.com/p/98f53faabbff
 
 ​	[Mac下的效率工具autojump](http://www.barretlee.com/blog/2015/03/30/autojump-in-mac/)
 
+​	[关于“.bash_profile”和“.bashrc”区别的总结](http://blog.csdn.net/sch0120/article/details/70256318)
+
 #### iTerm下使用ssh
 
 ​	[mac用iterm2实现ssh，怎么像SecureCRT一样保存IP和账号密码？](https://www.zhihu.com/question/30640159?sort=created)
@@ -146,6 +148,16 @@ http://www.jianshu.com/p/98f53faabbff
 ###  Typora - Markdown编辑器
 
 ​	[Typora下载](https://typora.io/)
+
+
+
+### Gitbook - Git & Markdown & 写书
+
+​	[Mac环境安装Gitbook，并导出PDF教程](https://www.jianshu.com/p/4824d216ad10)
+
+​	[GitBook Editor下载](http://www.pc6.com/mac/238113.html)
+
+​	[GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html)
 
 
 
