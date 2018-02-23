@@ -60,6 +60,11 @@
 #### Alfred快捷键
 
 ```
+Alfred HotKey: ⌘ + 空格
+Alfred Snippets: ⌘ + G
+Alfred Clipboard: ⌘ + J
+Alfred Large Type: ⌘ + ⌥ + L （按HotKey之后，输入一段文字在输入框，再按Large Type，可全屏展示）
+
 http://www.jianshu.com/p/e9f3352c785f
 http://www.alfredworkflow.com
 https://www.tanglei.name/blog/app-in-mac-preface.html
