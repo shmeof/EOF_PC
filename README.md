@@ -1,4 +1,4 @@
-# EOF's PC-工欲善其事，必先利其器。
+# PC - 工欲善其事，必先利其器。
 
 ## Mac
 
@@ -82,7 +82,15 @@ http://www.jianshu.com/p/98f53faabbff
 
 ​	[eof的Alfred配置](https://github.com/shmeof/eof_alfred)
 
+#### AlfredWorkflow
+
 ​	[Alfred-Workflows分享](https://www.alfredforum.com/forum/3-share-your-workflows/)
+
+​	[Alfred-Workflows：开发者的Workflows](https://github.com/willfarrell/alfred-workflows)
+
+​	[求推荐好的alfred workflow](https://www.v2ex.com/t/100651)
+
+​	[Workflow：网络标签](https://bbs.feng.com/read-htm-tid-11502455.html)
 
 #### Alfred剪切板
 
@@ -159,7 +167,9 @@ http://www.jianshu.com/p/98f53faabbff
 
 ​	[Typora主题下载](http://theme.typora.io/)
 
-​	[Typora如何安装主题](http://theme.typora.io/doc/)
+​	[Typora如何安装主题](http://theme.typora.io/doc/) 推荐"Solarized"主题
+
+
 
 ### Gitbook - Git & Markdown & 写书
 
@@ -173,11 +183,63 @@ http://www.jianshu.com/p/98f53faabbff
 
 ###  AndroidStudio - Android IDE
 
+#### 安装
+
 ​	[Android Studio Mac 下卸载与安装](http://www.jianshu.com/p/eb66c5132743)
 
 ​	[为Android Studio设置HTTP代理](http://www.cnblogs.com/zl1991/p/6378060.html)
 
 ​	[Android studio使用---WiFi ADB使用以及连接手机调试](http://blog.csdn.net/xiabing082/article/details/54376461)
+
+#### NDK配置
+
+​	[AndroidStudio3.0开发调试安卓NDK的C++代码](http://blog.csdn.net/asmcvc/article/details/78690371)
+
+​	[Android studio调试卡死问题 no such host as localhost](http://blog.csdn.net/Kafka_88/article/details/53781602)
+
+#### 插件
+
+​	ButterKnife Zelezny：AS插件 自动插入View注解
+​	GsonFormat：AS插件 自动生成Json Bean https://github.com/zzz40500/GsonFormat
+
+### Stetho - Android调试工具
+
+#### Stetho使用
+
+Stetho：查看App的布局／网络请求抓包／数据库或sp文件查看／自定义dumpapp插件／对于JavaScript的支持
+
+```
+1、adb方式连接到设备
+2、运行debug模式app
+3、Chrome浏览器输入：chrome://inspect
+4、选择需要inspect的应用进程
+```
+
+​	[Stetho工具介绍](http://blog.csdn.net/u012455213/article/details/54099573)
+
+
+
+### Gradle
+
+#### Gradle依赖查看&可视化
+
+*   添加配置
+
+[Android项目中的Gradle Task流程可视化](https://www.jianshu.com/p/6599de4cdcd1)
+
+*   查看
+
+```
+在build.gradle添加配置后，执行：
+gradle <task 1>...<task N> taskTree --no-repeat
+```
+
+*   可视化
+
+```
+在build.gradle添加配置后，执行：
+dot -Tpng ./visteg.dot -o ./visteg.dot.png
+```
 
 
 
@@ -191,7 +253,7 @@ http://www.jianshu.com/p/98f53faabbff
 
 ### PyCharm CE - Python IDE
 
-[PyCharm下载](https://www.jetbrains.com/pycharm/download/#section=mac)
+​	[PyCharm下载](https://www.jetbrains.com/pycharm/download/#section=mac)
 
 
 
