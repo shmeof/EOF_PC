@@ -142,22 +142,21 @@ http://www.jianshu.com/p/98f53faabbff
 	cd到数据库文件"***.db"所在目录，执行：sqlite3 ***.db
 
 
-
 ### Vim - 编辑器之神
 
-```
+#### MacVim安装
 
-```
+​	[MacVim安装及配置](https://www.jianshu.com/p/97d93fc72bcb)
 
 
 
-### Spacemacs - 神的编辑器
+### Emacs - 神的编辑器
 
 ​	[mac上spacemacs体验小记](http://www.cnblogs.com/pcy0/archive/2016/01/05/note-of-spacemacs-on-mac.html)
 
 
 
-###  Typora - Markdown编辑器
+###  Typora - Markdown编辑器(所见所得)
 
 #### Typora安装
 
@@ -169,17 +168,118 @@ http://www.jianshu.com/p/98f53faabbff
 
 ​	[Typora如何安装主题](http://theme.typora.io/doc/) 推荐"Solarized"主题
 
+#### 用Markdown写演示文稿PDF
+
+​	[用 Markdown 编写简洁优美的演示文稿](https://cn.v2ex.com/t/300795)
+
+### Mermaid - Markdown画图（方便画图）
+
+#### Mermaid安装
+
+```
+安装yarn：curl -o- -L https://yarnpkg.com/install.sh | bash
+安装mermaid：yarn add mermaid 或 sudo yarn add mermaid
+```
+
+[Mermaid官网](https://mermaidjs.github.io)
+
+[Mermaid在线画图](https://mermaidjs.github.io/mermaid-live-editor)
+
 
 
 ### Gitbook - Git & Markdown & 写书
 
 #### Gitbook安装
 
-​	[Mac环境安装Gitbook，并导出PDF教程](https://www.jianshu.com/p/4824d216ad10)
+```
+安装Node.js：https://nodejs.org/en/
+安装Gitbook：sudo npm install gitbook-cli -g
+验证安装结果：gitbook -V
+安装Gitbook Editor：http://www.pc6.com/mac/238113.html
+```
 
-​	[GitBook Editor下载](http://www.pc6.com/mac/238113.html)
+[Mac环境安装Gitbook，并导出PDF教程](https://www.jianshu.com/p/4824d216ad10)
 
-​	[GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html)
+[GitBook Editor下载](http://www.pc6.com/mac/238113.html)
+
+[GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html)
+
+#### Gitbook常用命令
+
+```
+安装book.js中的插件：gitbook install
+编译书籍：gitbook build
+编译并发布书籍：gitbook serve
+发生错误“spawn E2BIG”：npm rebuild
+```
+
+#### Gitbook插件Mermaid - 绘图
+
+[使用mermaid-gb3插件绘图](https://plugins.gitbook.com/plugin/mermaid-gb3)
+
+[错误：Error: spawn E2BIG](https://www.npmjs.com/package/gitbook-plugin-search-jieba)
+
+#### Gitbook学习
+
+​	http://gitbook.zhangjikai.com/plugins.html
+
+#### Gitbook常用插件
+
+​	http://zhaoda.net/2015/11/09/gitbook-plugins/
+
+#### Gitbook发布到Centos6.9服务器
+
+1.  安装nginx
+
+2.  cd /usr/share/nginx/gitbook
+
+3.  git clone https://git.gitbook.com/xxx/yyy.git
+
+4.  拷贝目录"_book"路径，如：
+
+    ```
+    /usr/share/nginx/gitbook/yyy/_book
+    ```
+
+5.  在/usr/local/nginx目录创建目录"sites-enabled",添加文件"api_gitbook.conf",内容:
+
+    ```
+    server {
+          listen 4000;
+          server_name localhost;
+          location / {
+               root /usr/share/nginx/gitbook/wanzhouyi/_book;
+               index index.html index.htm;
+               try_files $uri $uri/ =404;
+          }
+    }
+    ```
+
+6.  在/usr/local/nginx/conf/nginx.conf中"http"项中添加一行:
+
+    ```
+    include /usr/local/nginx/sites-enabled/*.conf;
+    ```
+
+7.  重启nginx: service nginx restart
+
+    ```
+    service nginx restart
+    ```
+
+8.  在云服务器打开端口"4000"的配置
+
+9.  访问：http://xxx.xxx.xxx.xxx:4000
+
+    ​
+
+    参考：
+
+    [centos用 yum 方式安装 nodejs 和 npm](http://blog.csdn.net/xiao_jun_0820/article/details/50838185)
+
+    [使用gitbook 发布一个教程文档网站](https://www.cnblogs.com/engeng/p/8135437.html)	
+
+    ​
 
 ###  AndroidStudio - Android IDE
 
@@ -291,13 +391,29 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 
 
 
-### StartUML - UML建模工具
+### StartUML - UML建模
 
 ​	[StartUML下载](http://staruml.io/download)
 
 ​	[StartUML破解](http://blog.csdn.net/mergades/article/details/46662413)
 
 ​	[错误处理：max connection attempts reached](https://my.oschina.net/youa)
+
+
+
+### OmniGraffle - 时序图流程图
+
+
+
+### ProcessOn - 在线泳道流程图
+
+​	[ProcessOn](https://www.processon.com/)：支持模版
+
+
+
+### Axure PR - 原型设计
+
+
 
 
 
