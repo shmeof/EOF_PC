@@ -224,28 +224,6 @@ nodeppt start -d <ppt所在目录>
 
 
 
-### GitPitch - Markdown写网页PPT
-
-1.  在GitHub项目根目录，添加配置文件"PITCHME.md"
-
-    ```
-    按GitPitch格式的展示内容
-    ```
-
-2.  在GitHub项目根目录，添加展示文件"PITCHME.yaml"
-
-3.  访问地址
-
-    ```
-    https://gitpitch.com/GitHub用户名/项目名
-    ```
-
-[如何用Markdonw写PPT](https://www.jianshu.com/p/25eda2f03ea2)
-
-[GitPitch Github](https://github.com/gitpitch/gitpitch)
-
-
-
 ### Gitbook - Git & Markdown & 写书
 
 #### Gitbook安装
