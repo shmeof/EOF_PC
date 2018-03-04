@@ -168,9 +168,7 @@ http://www.jianshu.com/p/98f53faabbff
 
 ​	[Typora如何安装主题](http://theme.typora.io/doc/) 推荐"Solarized"主题
 
-#### 用Markdown写演示文稿PDF
 
-​	[用 Markdown 编写简洁优美的演示文稿](https://cn.v2ex.com/t/300795)
 
 ### Mermaid - Markdown画图（方便画图）
 
@@ -185,6 +183,67 @@ http://www.jianshu.com/p/98f53faabbff
 
 [Mermaid在线画图](https://mermaidjs.github.io/mermaid-live-editor)
 
+#### Markdown工具对比
+
+[Markdown 编辑器大对比 MacOSx](https://www.jianshu.com/p/39333840fdbf)
+
+
+
+### NodePPT - Markdown写网页PPT
+
+#### NodePPT安装
+
+```
+npm install -g nodeppt
+```
+
+#### NodePTT创建
+
+```
+nodeppt create ppt名称
+
+title: 演讲标题
+subtitle：演讲子标题
+speaker: 演讲者
+```
+
+### NodePTT预览
+
+```
+nodeppt start -p <未使用的端口>
+nodeppt start -d <ppt所在目录>
+```
+
+
+
+[推荐nodeppt：使用markdown语法来写网页ppt](http://js8.in/2013/11/16/%E6%8E%A8%E8%8D%90nodeppt%EF%BC%9A%E4%BD%BF%E7%94%A8markdown%E8%AF%AD%E6%B3%95%E6%9D%A5%E5%86%99%E7%BD%91%E9%A1%B5ppt/)
+
+[NodePPT GitHub](https://github.com/ksky521/nodeppt)
+
+[NodePPT 演示Demo](http://js8.in/nodeppt/)
+
+
+
+### GitPitch - Markdown写网页PPT
+
+1.  在GitHub项目根目录，添加配置文件"PITCHME.md"
+
+    ```
+    按GitPitch格式的展示内容
+    ```
+
+2.  在GitHub项目根目录，添加展示文件"PITCHME.yaml"
+
+3.  访问地址
+
+    ```
+    https://gitpitch.com/GitHub用户名/项目名
+    ```
+
+[如何用Markdonw写PPT](https://www.jianshu.com/p/25eda2f03ea2)
+
+[GitPitch Github](https://github.com/gitpitch/gitpitch)
+
 
 
 ### Gitbook - Git & Markdown & 写书
@@ -195,12 +254,10 @@ http://www.jianshu.com/p/98f53faabbff
 安装Node.js：https://nodejs.org/en/
 安装Gitbook：sudo npm install gitbook-cli -g
 验证安装结果：gitbook -V
-安装Gitbook Editor：http://www.pc6.com/mac/238113.html
+使用Typora打开目录：Typora -> 文件 -> 打开
 ```
 
 [Mac环境安装Gitbook，并导出PDF教程](https://www.jianshu.com/p/4824d216ad10)
-
-[GitBook Editor下载](http://www.pc6.com/mac/238113.html)
 
 [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html)
 
@@ -221,11 +278,11 @@ http://www.jianshu.com/p/98f53faabbff
 
 #### Gitbook学习
 
-​	http://gitbook.zhangjikai.com/plugins.html
+http://gitbook.zhangjikai.com/plugins.html
 
 #### Gitbook常用插件
 
-​	http://zhaoda.net/2015/11/09/gitbook-plugins/
+http://zhaoda.net/2015/11/09/gitbook-plugins/
 
 #### Gitbook发布到Centos6.9服务器
 
@@ -297,10 +354,10 @@ http://www.jianshu.com/p/98f53faabbff
 
 ​	[Android studio调试卡死问题 no such host as localhost](http://blog.csdn.net/Kafka_88/article/details/53781602)
 
-#### 插件
+#### AS插件
 
 ​	ButterKnife Zelezny：AS插件 自动插入View注解
-​	GsonFormat：AS插件 自动生成Json Bean https://github.com/zzz40500/GsonFormat
+​	GsonFormat：自动生成Json Bean https://github.com/zzz40500/GsonFormat
 
 ### Stetho - Android调试工具
 
@@ -402,6 +459,8 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 
 
 ### OmniGraffle - 时序图流程图
+
+
 
 
 
