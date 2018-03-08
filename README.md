@@ -189,7 +189,20 @@ http://www.jianshu.com/p/98f53faabbff
 
 
 
-### NodePPT - Markdown写网页PPT
+### NodePPT - Markdown写在线PPT
+
+#### NodePPT快捷键
+
+```
+全屏：用Chrome打开演示文档，Chrome->视图->关闭"在全屏模式下始终显示工具栏"，Chrome->视图->进入全屏幕
+O键：开启预览模式
+H键：使特定文字闪动
+N键：显示笔记备注
+P键：调出画笔（调出画笔后，按B/Y/R/G/M，分别是画笔颜色 蓝/黄/红/绿/紫）
+C键：清空画板
+
+alt + 鼠标点击：放大／缩小点击处
+```
 
 #### NodePPT安装
 
@@ -222,7 +235,9 @@ nodeppt start -d <ppt所在目录>
 
 [NodePPT 演示Demo](http://js8.in/nodeppt/)
 
+[NodePPT 演示Demo源文件](https://gitlab.com/mba811/nodePPT/blob/d3a97234a4fe2926b688862b54b4d7c24a5e90c8/ppts/demo.md)
 
+[图片视频素材](http://www.quanjing.com/)
 
 ### Gitbook - Git & Markdown & 写书
 
@@ -296,7 +311,7 @@ http://zhaoda.net/2015/11/09/gitbook-plugins/
     include /usr/local/nginx/sites-enabled/*.conf;
     ```
 
-7.  重启nginx: service nginx restart
+7.  重启nginx:
 
     ```
     service nginx restart
@@ -305,6 +320,8 @@ http://zhaoda.net/2015/11/09/gitbook-plugins/
 8.  在云服务器打开端口"4000"的配置
 
 9.  访问：http://xxx.xxx.xxx.xxx:4000
+
+10.  访问地址有端口，有点丑，可进行端口转发：https://www.cnblogs.com/zhaoyingjie/p/7248678.html
 
     ​
 
