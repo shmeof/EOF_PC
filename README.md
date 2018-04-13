@@ -101,6 +101,8 @@ http://www.jianshu.com/p/98f53faabbff
 
 ​	[Alfred 3 中的惊喜](https://sspai.com/post/34344)
 
+​	[Alfred 效率神器全攻略](http://blog.surfacew.com/tool/2016/08/03/Alfred/)
+
 
 
 ### iTerm - Shell
@@ -140,7 +142,6 @@ http://www.jianshu.com/p/98f53faabbff
 #### iTerm下使用SQLite
 
 	cd到数据库文件"***.db"所在目录，执行：sqlite3 ***.db
-
 
 ### Vim - 编辑器之神
 
@@ -237,7 +238,15 @@ nodeppt start -d <ppt所在目录>
 
 [NodePPT 演示Demo源文件](https://gitlab.com/mba811/nodePPT/blob/d3a97234a4fe2926b688862b54b4d7c24a5e90c8/ppts/demo.md)
 
+
+
+## 素材获取
+
 [图片视频素材](http://www.quanjing.com/)
+
+[阿里图标库](http://www.iconfont.cn/collections)
+
+
 
 ### Gitbook - Git & Markdown & 写书
 
@@ -395,6 +404,14 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 
 
 
+### 微信开发者工具
+
+[工具下载](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html)
+
+[框架](https://developers.weixin.qq.com/miniprogram/dev/framework/structure.html)
+
+
+
 ###  Intellij Idea - IDE
 
 ​	[IntelliJ IDEA（2017）下载并破解](http://blog.csdn.net/qq_27676247/article/details/74639304)
@@ -468,6 +485,46 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 ### Axure PR - 原型设计
 
 
+
+# TensorFlow
+
+## TensorFlow安装
+
+### Mac平台
+
+```
+1、安装Anaconda
+2、通过conda建立Tensorflow运行环境
+3、激活Tensorflow运行环境
+4、安装Pycharm IDE
+```
+
+[Mac下TensorFlow安装及环境搭建](https://www.cnblogs.com/vijozsoft/p/7832229.html)
+
+[Anaconda下载](https://www.anaconda.com/download)
+
+[TensorFlow中文社区](http://www.tensorfly.cn/)
+
+### Linux（CentOS6.9）
+
+pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.5.0-cp27-none-linux_x86_64.whl
+
+错误处理：[InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately [duplicate]](https://stackoverflow.com/questions/29134512/insecureplatformwarning-a-true-sslcontext-object-is-not-available-this-prevent)
+
+## TensorFlow使用
+
+```
+激活Tensorflow环境：source activate tensorflow
+退出Tensorflow环境：source deactivate tensorflow
+```
+
+## TensorFlow可视化
+
+[TensorBoard--TensorFlow可视化](http://blog.csdn.net/wangjian1204/article/details/53291619)
+
+## TensorFlow学习
+
+http://blog.csdn.net/shingle_/article/details/52653621
 
 
 
