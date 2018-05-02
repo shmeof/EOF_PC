@@ -5,25 +5,35 @@
 ### Mac快捷键 - 全局快捷键
 
     显示各窗口：F3
-    显示桌面： command + F3
-    隐藏应用程序： command + H
-    切换程序： command + tab
-    切换程序内窗口： command + ～
-    关闭程序： comnmand + Q
-    关闭程序内窗口： command + W
-    全屏/取消全屏：control + command + f
-    新建一个窗口：command + n
-    桌面快捷键： http://blog.csdn.net/win_ann/article/details/3757987
+    显示桌面： ⌘ + F3
+    隐藏应用程序： ⌘ + H
+    切换程序： ⌘ + tab
+    切换程序内窗口： ⌘ + ～
+    关闭程序： ⌘ + Q
+    关闭程序内窗口： ⌘ + W
+    全屏/取消全屏：⌃ + ⌘ + f
+    新建一个窗口：⌘ + n
+
+[桌面快捷键](http://blog.csdn.net/win_ann/article/details/3757987)
+
+
 
 ### OutLook - 邮件
 
 ```
-
+在Alfred中打开Features->File Search即可。
 ```
 
 
 
 ### Chrome - 浏览器
+
+#### Chrome快捷键
+
+```
+新标签页：⌘ + T
+关闭标签：⌘ + W
+```
 
 ```
 登录Chrome账号，同步所有信息（标签、插件等）。
@@ -84,6 +94,10 @@ http://www.jianshu.com/p/98f53faabbff
 
 #### AlfredWorkflow
 
+​	[Workflow市场](http://www.packal.org/)
+
+​	[[推荐]Workflows-List](http://www.packal.org/workflow-list)
+
 ​	[Alfred-Workflows分享](https://www.alfredforum.com/forum/3-share-your-workflows/)
 
 ​	[Alfred-Workflows：开发者的Workflows](https://github.com/willfarrell/alfred-workflows)
@@ -92,10 +106,26 @@ http://www.jianshu.com/p/98f53faabbff
 
 ​	[Workflow：网络标签](https://bbs.feng.com/read-htm-tid-11502455.html)
 
+​	[Copy URL | Packal](http://www.packal.org/workflow/copy-url)
+
+#### Alfred Workflow 开发
+
+​	[Python 新手也会写的 Alfred Workflow](https://toutiao.io/posts/uzbies/preview)
+
+​	[Welcome to Alfred-Workflow](http://www.deanishe.net/alfred-workflow/index.html)
+
+​	[alfred-workflow](https://github.com/deanishe/alfred-workflow) - 开发Workflow必看
+
+​	[为alfred编写workflow](https://www.jianshu.com/p/386ae7627608)
+
 #### Alfred剪切板
 
 ​	[Alfred Snippet - Alfred剪切板](https://www.alfredapp.com/extras/snippets/)
-​	[Alfred Snipped - 墨迹表情安装](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/#install)
+	[Alfred Snipped - 墨迹表情安装](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/#install)
+
+#### Alfred主题
+
+​	[Theme List](http://www.packal.org/theme-list)
 
 #### Alfred其他
 
@@ -107,7 +137,7 @@ http://www.jianshu.com/p/98f53faabbff
 
 ### iTerm - Shell
 
-#### iTerm快捷键
+####  iTerm快捷键
 
 ```
 进入设置：command + ,
