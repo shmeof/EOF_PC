@@ -214,6 +214,42 @@ http://www.jianshu.com/p/98f53faabbff
 
 [Mermaid在线画图](https://mermaidjs.github.io/mermaid-live-editor)
 
+#### Mermaid使用
+
+1、在Typora中输入以下内容
+
+```
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->John: Hello John, how are you?
+    loop Healthcheck
+        John->John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail...
+    John-->Alice: Great!
+    John->Bob: How about you?
+    Bob-->John: Jolly good!
+```
+
+2、在输入区右下角“select a language”中，输入“mermaid”，即刻展示图形。
+
+```mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->John: Hello John, how are you?
+    loop Healthcheck
+        John->John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail...
+    John-->Alice: Great!
+    John->Bob: How about you?
+    Bob-->John: Jolly good!
+```
+
+
+
 #### Markdown工具对比
 
 [Markdown 编辑器大对比 MacOSx](https://www.jianshu.com/p/39333840fdbf)
@@ -544,8 +580,10 @@ pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.5.0
 ## TensorFlow使用
 
 ```
-激活Tensorflow环境：source activate tensorflow
-退出Tensorflow环境：source deactivate tensorflow
+激活Tensorflow环境：
+source activate tensorflow
+退出Tensorflow环境：
+source deactivate tensorflow
 ```
 
 ## TensorFlow可视化
