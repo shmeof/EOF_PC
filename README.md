@@ -232,7 +232,7 @@ sequenceDiagram
     Bob-->John: Jolly good!
 ```
 
-2、在输入区右下角“select a language”中，输入“mermaid”，即刻展示图形。
+2、在输入区右下角“select a language”中，输入“mermaid”，即可展示图形（需要展示的工具支持，如Typora）。
 
 ```mermaid
 sequenceDiagram
