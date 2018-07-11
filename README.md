@@ -550,6 +550,10 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 
 ### Axure RP - 原型设计
 
+​	[AX8.0正式版_免费高速下载|百度网盘-分享无限制](https://pan.baidu.com/s/1nwmBHLv#list/path=%2F) 提取密码：ufnh
+
+​	[Axure RP 8最新激活码(可用注册码) - CSDN博客](https://blog.csdn.net/hejinde/article/details/54981845)
+
 
 
 ### Dr.Unarchiver - 压缩解压
