@@ -548,7 +548,7 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 
 
 
-### Axure PR - 原型设计
+### Axure RP - 原型设计
 
 
 
