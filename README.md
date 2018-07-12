@@ -560,50 +560,6 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 
 
 
-# TensorFlow
-
-## TensorFlow安装
-
-### Mac平台
-
-```
-1、安装Anaconda
-2、通过conda建立Tensorflow运行环境
-3、激活Tensorflow运行环境
-4、安装Pycharm IDE
-```
-
-[Mac下TensorFlow安装及环境搭建](https://www.cnblogs.com/vijozsoft/p/7832229.html)
-
-[Anaconda下载](https://www.anaconda.com/download)
-
-[TensorFlow中文社区](http://www.tensorfly.cn/)
-
-### Linux（CentOS6.9）
-
-pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.5.0-cp27-none-linux_x86_64.whl
-
-错误处理：[InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately [duplicate]](https://stackoverflow.com/questions/29134512/insecureplatformwarning-a-true-sslcontext-object-is-not-available-this-prevent)
-
-## TensorFlow使用
-
-```
-激活Tensorflow环境：
-source activate tensorflow
-退出Tensorflow环境：
-source deactivate tensorflow
-```
-
-## TensorFlow可视化
-
-[TensorBoard--TensorFlow可视化](http://blog.csdn.net/wangjian1204/article/details/53291619)
-
-## TensorFlow学习
-
-http://blog.csdn.net/shingle_/article/details/52653621
-
-
-
 ## Windows
 
 ```
