@@ -112,6 +112,8 @@ http://www.jianshu.com/p/98f53faabbff
 
 ​	[Copy URL | Packal](http://www.packal.org/workflow/copy-url)
 
+​	[六款提升操作效率的 Alfred Workflow_Pinapps_传送门](http://chuansong.me/n/2499436)
+
 #### Alfred Workflow 开发
 
 ​	[Python 新手也会写的 Alfred Workflow](https://toutiao.io/posts/uzbies/preview)
@@ -419,15 +421,16 @@ http://zhaoda.net/2015/11/09/gitbook-plugins/
 
 10.  访问地址有端口，有点丑，可进行端口转发：https://www.cnblogs.com/zhaoyingjie/p/7248678.html
 
-    ​
-    
     参考：
-    
     [centos用 yum 方式安装 nodejs 和 npm](http://blog.csdn.net/xiao_jun_0820/article/details/50838185)
     
     [使用gitbook 发布一个教程文档网站](https://www.cnblogs.com/engeng/p/8135437.html)	
-    
-    ​
+
+
+
+### JDK - Java
+
+​	[Mac下如何安装JDK](http://www.cnblogs.com/quickcodes/p/5127101.html)
 
 
 
@@ -441,6 +444,14 @@ http://zhaoda.net/2015/11/09/gitbook-plugins/
 
 ​	[Android studio使用---WiFi ADB使用以及连接手机调试](http://blog.csdn.net/xiabing082/article/details/54376461)
 
+
+
+#### 环境变量
+
+[Mac下配置android环境变量 - CSDN博客](https://blog.csdn.net/jiangbo_phd/article/details/71440664)
+
+
+
 #### NDK配置
 
 ​	[AndroidStudio3.0开发调试安卓NDK的C++代码](http://blog.csdn.net/asmcvc/article/details/78690371)
@@ -450,7 +461,9 @@ http://zhaoda.net/2015/11/09/gitbook-plugins/
 #### AS插件
 
 ​	ButterKnife Zelezny：AS插件 自动插入View注解
-​	GsonFormat：自动生成Json Bean https://github.com/zzz40500/GsonFormat
+	GsonFormat：自动生成Json Bean https://github.com/zzz40500/GsonFormat
+
+
 
 ### Stetho - Android调试工具
 
@@ -471,25 +484,41 @@ Stetho：查看App的布局／网络请求抓包／数据库或sp文件查看／
 
 ### Gradle
 
+#### Gradle安装
+
+[Mac 配置gradle环境变量 - 简书](https://www.jianshu.com/p/e9d035f30876)
+
+[Mac下配置Gradle环境 - CSDN博客](https://blog.csdn.net/u014005316/article/details/54927510)
+
+[超详细之手把手配置 Mac 的path地址](https://mp.weixin.qq.com/s?__biz=MzI0Mzg1MjA2OQ==&mid=2247483711&idx=1&sn=553a649814b96ff23aafe12503e0f1d6&chksm=e967f775de107e631fde24b1dc0b932ca6cbce78747d0468ff6b90a53f02a357a18053895025&scene=21#wechat_redirect%20%E2%80%9C%E8%B6%85%E8%AF%A6%E7%BB%86%E4%B9%8B%E6%89%8B%E6%8A%8A%E6%89%8B%E9%85%8D%E7%BD%AE%20Mac%20%E7%9A%84path%E5%9C%B0%E5%9D%80%20%E2%80%9D)
+
+
+
 #### Gradle依赖查看&可视化
 
-*   添加配置
+#### 添加配置
 
 [Android项目中的Gradle Task流程可视化](https://www.jianshu.com/p/6599de4cdcd1)
 
-*   查看
+#### 查看
 
 ```
 在build.gradle添加配置后，执行：
 gradle <task 1>...<task N> taskTree --no-repeat
 ```
 
-*   可视化
+#### 可视化
 
 ```
 在build.gradle添加配置后，执行：
 dot -Tpng ./visteg.dot -o ./visteg.dot.png
 ```
+
+
+
+### Maven
+
+​	[Mac下Maven安装与配置 - serena_uuu - 博客园](https://www.cnblogs.com/serena25/p/7110791.html)
 
 
 
@@ -513,6 +542,8 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 
 ​	[PyCharm下载](https://www.jetbrains.com/pycharm/download/#section=mac)
 
+​	[pyCharm最新2018激活码 - CSDN博客](https://blog.csdn.net/u014044812/article/details/78727496)
+
 
 
 ### PhpStorm - Php IDE
@@ -520,12 +551,6 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 ```
 
 ```
-
-
-
-### JDK - Java
-
-​	[Mac下如何安装JDK](http://www.cnblogs.com/quickcodes/p/5127101.html)
 
 
 
