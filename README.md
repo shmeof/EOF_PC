@@ -59,6 +59,10 @@
 "激活Light Peek"的快捷键设置为： Shift + Space
 ```
 
+#### 下载
+
+[欧陆词典下载](https://www.eudic.net/v4/en/app/download)
+
 #### 其他
 
 ​	[Mac 有哪些好用的屏幕取词翻译工具？](https://www.zhihu.com/question/20461259)
@@ -112,6 +116,8 @@ http://www.jianshu.com/p/98f53faabbff
 
 ​	[Python 新手也会写的 Alfred Workflow](https://toutiao.io/posts/uzbies/preview)
 
+​	[Alfred Workflow教程与实例 - 简书](https://www.jianshu.com/p/729d5f9991b8)
+
 ​	[Welcome to Alfred-Workflow](http://www.deanishe.net/alfred-workflow/index.html)
 
 ​	[alfred-workflow](https://github.com/deanishe/alfred-workflow) - 开发Workflow必看
@@ -149,6 +155,7 @@ http://www.jianshu.com/p/98f53faabbff
 清屏：ctrl + l
 双击：选中当前单词（选中即复制）
 三击：选中当前行（选中即复制）
+打开目录：执行(打开work目录)：open ~/Document/work
 ```
 
 #### iTerm配置
@@ -314,6 +321,20 @@ nodeppt start -d <ppt所在目录>
 
 
 
+### Git
+
+#### Mac安装Git
+
+直接在Shell上运行即可自动提示安装：git
+
+
+
+### Github
+
+[MAC版GitHub配置SSH](https://blog.csdn.net/ShuTongIt/article/details/78902788)
+
+
+
 ### Gitbook - Git & Markdown & 写书
 
 #### Gitbook安装
@@ -399,14 +420,16 @@ http://zhaoda.net/2015/11/09/gitbook-plugins/
 10.  访问地址有端口，有点丑，可进行端口转发：https://www.cnblogs.com/zhaoyingjie/p/7248678.html
 
     ​
-
+    
     参考：
-
+    
     [centos用 yum 方式安装 nodejs 和 npm](http://blog.csdn.net/xiao_jun_0820/article/details/50838185)
-
+    
     [使用gitbook 发布一个教程文档网站](https://www.cnblogs.com/engeng/p/8135437.html)	
-
+    
     ​
+
+
 
 ###  AndroidStudio - Android IDE
 
