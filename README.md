@@ -327,13 +327,19 @@ nodeppt start -d <ppt所在目录>
 
 #### Mac安装Git
 
-直接在Shell上运行即可自动提示安装：git
+​	在Shell上运行：git
 
 
 
-### Github
+### GitHub
 
 [MAC版GitHub配置SSH](https://blog.csdn.net/ShuTongIt/article/details/78902788)
+
+
+
+### GitLab
+
+[Gitlab使用第一篇；Mac下使用gitlab进行项目管理 - CSDN博客](https://blog.csdn.net/xunxianren007/article/details/54021499)
 
 
 
