@@ -327,13 +327,15 @@ nodeppt start -d <ppt所在目录>
 
 #### Mac安装Git
 
-​	在Shell上运行：git
+​	直接在Shell上运行：git
 
 
 
 ### GitHub
 
 [MAC版GitHub配置SSH](https://blog.csdn.net/ShuTongIt/article/details/78902788)
+
+[permission denied (publickey)问题的解决 和 向github添加ssh key - CSDN博客](https://blog.csdn.net/isunnyvinson/article/details/52598863)
 
 
 
