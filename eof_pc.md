@@ -85,6 +85,10 @@ https://www.tanglei.name/blog/app-in-mac-preface.html
 http://www.jianshu.com/p/98f53faabbff
 ```
 
+#### Alfred Wrokflow必用
+
+	Evernote 兼容macOS 10.13.4 ：安装Workflow Searcher，通过Workflow Searcher执行“wf”搜索“evernote”，即可evernote的兼容版。
+
 #### Alfred购买
 
 	[Alfred Mega 最多可使用4台机器](https://twitter.com/alfredapp/status/42596148074131456)
