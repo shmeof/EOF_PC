@@ -51,6 +51,12 @@
 
 
 
+### Xmind-思维导图
+
+[(6 条消息)有哪些思维导图软件支持保存到印象笔记 Evernote? - 知乎](https://www.zhihu.com/question/24058692/answer/39210017)
+
+
+
 ### 欧陆词典 - 翻译/屏幕取词
 
 #### 快捷键
@@ -87,13 +93,23 @@ http://www.jianshu.com/p/98f53faabbff
 
 #### Alfred Wrokflow必用
 
+##### Workflow Searcher
+
+##### Evernote	
+
 	Evernote 兼容macOS 10.13.4 ：安装Workflow Searcher，通过Workflow Searcher执行“wf”搜索“evernote”，即可evernote的兼容版。
+	
+	[Evernote | Packal](http://www.packal.org/workflow/evernote)
+
+##### 股票workflow
+
+[larryisthere/alfred.workflow.chinastockquotation: Realtime China stock quotation, support all companies & indexes of Shanghai exchange and Shenzhen exchange.](https://github.com/larryisthere/alfred.workflow.chinastockquotation)
 
 #### Alfred购买
 
 	[Alfred Mega 最多可使用4台机器](https://twitter.com/alfredapp/status/42596148074131456)
-​	[Alfred Mega 如果在某台Mac上不再使用了，可使用deactivate来迁移License，忘了解绑的话也可发邮件到info@alfredapp寻求帮助 ](http://www.alfredforum.com/topic/2692-move-license-to-new-computer/)
-
+	[Alfred Mega 如果在某台Mac上不再使用了，可使用deactivate来迁移License，忘了解绑的话也可发邮件到info@alfredapp寻求帮助 ](http://www.alfredforum.com/topic/2692-move-license-to-new-computer/)
+	
 	[MacTips 专栏：Alfred 3.0 Beta 之体验与授权种类选择](https://www.waerfa.com/37283)
 
 #### Alfred配置
@@ -103,37 +119,37 @@ http://www.jianshu.com/p/98f53faabbff
 #### AlfredWorkflow
 
 	[Workflow市场](http://www.packal.org/)
-
+	
 	[[推荐]Workflows-List](http://www.packal.org/workflow-list)
-
+	
 	[Alfred-Workflows分享](https://www.alfredforum.com/forum/3-share-your-workflows/)
-
+	
 	[Alfred-Workflows：开发者的Workflows](https://github.com/willfarrell/alfred-workflows)
-
+	
 	[求推荐好的alfred workflow](https://www.v2ex.com/t/100651)
-
+	
 	[Workflow：网络标签](https://bbs.feng.com/read-htm-tid-11502455.html)
-
+	
 	[Copy URL | Packal](http://www.packal.org/workflow/copy-url)
-
+	
 	[六款提升操作效率的 Alfred Workflow_Pinapps_传送门](http://chuansong.me/n/2499436)
-
+	
 	[TKkk-iOSer/wechat-alfred-workflow: wechat workflow for Alfred：微信快速发送消息 & 打开聊天窗口 & 查看聊天记录](https://github.com/TKkk-iOSer/wechat-alfred-workflow) -- 推荐
-
+	
 	[让微信 macOS 客户端支持 Alfred | Sunnyyoung's Blog](https://blog.sunnyyoung.net/rang-wei-xin-macos-ke-hu-duan-zhi-chi-alfred/)
-
+	
 	[Wi-Fi Control | Packal](http://www.packal.org/workflow/wi-fi-control)
 
 #### Alfred Workflow 开发
 
 	[Python 新手也会写的 Alfred Workflow](https://toutiao.io/posts/uzbies/preview)
-
+	
 	[Alfred Workflow教程与实例 - 简书](https://www.jianshu.com/p/729d5f9991b8)
-
+	
 	[Welcome to Alfred-Workflow](http://www.deanishe.net/alfred-workflow/index.html)
-
+	
 	[alfred-workflow](https://github.com/deanishe/alfred-workflow) - 开发Workflow必看
-
+	
 	[为alfred编写workflow](https://www.jianshu.com/p/386ae7627608)
 
 #### Alfred剪切板
@@ -148,7 +164,7 @@ http://www.jianshu.com/p/98f53faabbff
 #### Alfred其他
 
 	[Alfred 3 中的惊喜](https://sspai.com/post/34344)
-
+	
 	[Alfred 效率神器全攻略](http://blog.surfacew.com/tool/2016/08/03/Alfred/)
 
 
@@ -173,15 +189,15 @@ http://www.jianshu.com/p/98f53faabbff
 #### iTerm配置
 
 	[mac－改造你的terminal](http://www.jianshu.com/p/bb1c97269b11)
-
+	
 	[Mac下终端配置（item2 + oh-my-zsh + solarized配色方案）](https://www.cnblogs.com/weixuqin/p/7029177.html)
-
+	
 	[使用iTerm2替代Mac自带Terminal终端](http://blog.csdn.net/chenyufeng1991/article/details/50492626)
-
+	
 	[Mac OS X 终端里使用 Solarized 配色方案](https://www.vpsee.com/2013/09/use-the-solarized-color-theme-on-mac-os-x-terminal/)
-
+	
 	[Mac下的效率工具autojump](http://www.barretlee.com/blog/2015/03/30/autojump-in-mac/)
-
+	
 	[关于“.bash_profile”和“.bashrc”区别的总结](http://blog.csdn.net/sch0120/article/details/70256318)
 
 #### iTerm下使用ssh
@@ -191,6 +207,16 @@ http://www.jianshu.com/p/98f53faabbff
 #### iTerm下使用SQLite
 
 	cd到数据库文件"***.db"所在目录，执行：sqlite3 ***.db
+
+
+
+### Fantastical-提醒/日历
+
+[Fantastical 2.5.5 优雅的日历软件 - 精品MAC应用分享](http://xclient.info/s/fantastical.html?t=ea4eecffe8245b824ca4ba31efa6926a5006570d)
+
+[MAC应用无法打开或文件损坏的处理方法 - 精品MAC应用分享](http://xclient.info/a/74559ea2-7870-b992-ed53-52a9d988e382.html?t=ea4eecffe8245b824ca4ba31efa6926a5006570d)
+
+[Don't Miss A Date with Fantastical 2 and Workflows - Alfred Blog](https://www.alfredapp.com/blog/productivity/dont-miss-a-date-with-fantastical-2-and-workflows/)
 
 
 
@@ -225,32 +251,32 @@ http://www.jianshu.com/p/98f53faabbff
 #### Typora主题
 
 	[Typora主题下载](http://theme.typora.io/)
-
+	
 	[Typora如何安装主题](http://theme.typora.io/doc/) 推荐"Solarized"主题
 
 
 #### Windows仿Alfred工具
 方案1：未尝试
-	Wox
-		集成了Everything 
-		不太成熟 	
-		http://www.appinn.com/wox-launcher/
-		http://www.getwox.com/
+​	Wox
+​		集成了Everything 
+​		不太成熟 	
+​		http://www.appinn.com/wox-launcher/
+​		http://www.getwox.com/
 方案2：未尝试
-	Launchy + Everything + Listary 
-		呼出：alt+space 
+​	Launchy + Everything + Listary 
+​		呼出：alt+space 
 方案3：未尝试
-	Keypirinha 
+​	Keypirinha 
 方案4：未尝试
-	altrun
+​	altrun
 方案5：未尝试
-	Electron  
+​	Electron  
 
 [win7左ctrl和左alt键互换 - 三更_雨 - 博客园](https://www.cnblogs.com/cyttina/p/3900929.html) -- 未尝试
 
 #### Linux仿Alfred工具
 方案1：未尝试
-	krunner 
+​	krunner 
 
 
 ### Mermaid - Markdown画图（方便画图）
@@ -262,7 +288,7 @@ http://www.jianshu.com/p/98f53faabbff
 安装mermaid：yarn add mermaid 或 sudo yarn add mermaid
 ```
 
-[Mermaid官网](https://mermaidjs.github.io)
+[Mermaid官网t](https://mermaidjs.github.io)
 
 [Mermaid在线画图](https://mermaidjs.github.io/mermaid-live-editor)
 
@@ -496,9 +522,9 @@ http://zhaoda.net/2015/11/09/gitbook-plugins/
 #### 安装
 
 	[Android Studio Mac 下卸载与安装](http://www.jianshu.com/p/eb66c5132743)
-
+	
 	[为Android Studio设置HTTP代理](http://www.cnblogs.com/zl1991/p/6378060.html)
-
+	
 	[Android studio使用---WiFi ADB使用以及连接手机调试](http://blog.csdn.net/xiabing082/article/details/54376461)
 
 
@@ -512,7 +538,7 @@ http://zhaoda.net/2015/11/09/gitbook-plugins/
 #### NDK配置
 
 	[AndroidStudio3.0开发调试安卓NDK的C++代码](http://blog.csdn.net/asmcvc/article/details/78690371)
-
+	
 	[Android studio调试卡死问题 no such host as localhost](http://blog.csdn.net/Kafka_88/article/details/53781602)
 
 #### AS插件
@@ -590,7 +616,7 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 ###  Intellij Idea - IDE
 
 	[IntelliJ IDEA（2017）下载并破解](http://blog.csdn.net/qq_27676247/article/details/74639304)
-
+	
 	[Iintellij Idea 注册码](http://idea.lanyus.com)
 
 
@@ -598,7 +624,7 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 ### PyCharm CE - Python IDE
 
 	[PyCharm下载](https://www.jetbrains.com/pycharm/download/#section=mac)
-
+	
 	[pyCharm最新2018激活码 - CSDN博客](https://blog.csdn.net/u014044812/article/details/78727496)
 
 
@@ -625,7 +651,7 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 ### SQLiteManager - SQLite可视化
 
 	[SQLiteManager下载](http://www.sqlabs.net/sqlitemanager.php) 注册码：SQLM3-29H3A-23383-LDCZD
-
+	
 	[SQLite官网](http://www.sqlite.org/)
 
 
@@ -633,25 +659,25 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 ### StartUML - UML建模
 
 	[StartUML下载](http://staruml.io/download)
-
+	
 	[StartUML破解](http://blog.csdn.net/mergades/article/details/46662413)
-
+	
 	[错误处理：max connection attempts reached](https://my.oschina.net/youa)
 
 
 
 	其他：
-
+	
 	UML画图
-
+	
 	StartUML
-
+	
 	PlantUML
-
+	
 	ArgoUML
-
+	
 	Google Drawings
-
+	
 	astah	
 
 
@@ -671,7 +697,7 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 ### Axure RP - 原型设计
 
 	[AX8.0正式版_免费高速下载|百度网盘-分享无限制](https://pan.baidu.com/s/1nwmBHLv#list/path=%2F) 提取密码：ufnh
-
+	
 	[Axure RP 8最新激活码(可用注册码) - CSDN博客](https://blog.csdn.net/hejinde/article/details/54981845)
 
 
