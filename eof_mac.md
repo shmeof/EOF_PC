@@ -212,11 +212,19 @@ http://www.jianshu.com/p/98f53faabbff
 
 ### Fantastical-提醒/日历
 
+整体方案：Fantastical（iMac版+iPhone版） + Alfred-Workflow（dont-miss-a-date-with-fantastical-2-and-workflows）
+
+#### Fantastical-iMac
+
 [Fantastical 2.5.5 优雅的日历软件 - 精品MAC应用分享](http://xclient.info/s/fantastical.html?t=ea4eecffe8245b824ca4ba31efa6926a5006570d)
 
 [MAC应用无法打开或文件损坏的处理方法 - 精品MAC应用分享](http://xclient.info/a/74559ea2-7870-b992-ed53-52a9d988e382.html?t=ea4eecffe8245b824ca4ba31efa6926a5006570d)
 
 [Don't Miss A Date with Fantastical 2 and Workflows - Alfred Blog](https://www.alfredapp.com/blog/productivity/dont-miss-a-date-with-fantastical-2-and-workflows/)
+
+#### Fantastical-iPhone
+
+
 
 
 
@@ -711,57 +719,3 @@ dot -Tpng ./visteg.dot -o ./visteg.dot.png
 	[Paragon NTFS for Mac中文官网|Mac读写NTFS磁盘工具](http://www.ntfsformac.cn/)
 
 
-
-## Windows
-
-```
-Vim / Spacemacs
-	https://emacs-china.org/t/topic/2447/4
-Notepadd++
-EditPlus
-
-Android Studio
-IntelliJ IDEA Community Edition 2016.1.3
-JetBrains PyCharm 2016.2.3
-JetBrains PypStorm 2017.1
-Eclipse
-
-SecureCRT 8.1
-WinSCP 
-WireShark
-
-Git
-Subversion
-
-SQLiteSpy
-RegexBuddy 4 DEMO 4.1.3
-
-Beyond Compare
-
-Cmd Markdown
-Evernote
-
-Google Chrome
-Mozilla Firefox
-
-WinRAR
-
-7-Zip
-
-Skype for Business
-
-Microsoft Office Word
-Microsoft Office PowerPoint
-Microsoft Office Excel
-Microsoft Office Outlook
-Microsoft Office Access
-
-Skype for Business 2016
-
-Enterprise Architect 8
-Enterprise Architect 汉化版
-  	
-91助手
-微信
-QQ
-```
