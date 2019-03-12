@@ -16,6 +16,8 @@
 
 [桌面快捷键](http://blog.csdn.net/win_ann/article/details/3757987)
 
+[mac 全局快捷键启动应用程序_百度文库](https://wenku.baidu.com/view/bfc0a06b26284b73f242336c1eb91a37f0113251.html)
+
 
 
 ### OutLook - 邮件
@@ -105,6 +107,10 @@ http://www.jianshu.com/p/98f53faabbff
 
 [larryisthere/alfred.workflow.chinastockquotation: Realtime China stock quotation, support all companies & indexes of Shanghai exchange and Shenzhen exchange.](https://github.com/larryisthere/alfred.workflow.chinastockquotation)
 
+##### Hash
+
+[bigluck/alfred2-hash: Hash calculator with MD5, SHA1, Base64, htpasswd, whirlpool and crc32 support!](https://github.com/BigLuck/alfred2-hash)
+
 #### Alfred购买
 
 	[Alfred Mega 最多可使用4台机器](https://twitter.com/alfredapp/status/42596148074131456)
@@ -166,6 +172,16 @@ http://www.jianshu.com/p/98f53faabbff
 	[Alfred 3 中的惊喜](https://sspai.com/post/34344)
 	
 	[Alfred 效率神器全攻略](http://blog.surfacew.com/tool/2016/08/03/Alfred/)
+
+
+
+### TextBar / BitBar
+
+[给自己的座右铭留一块地方 - 少数派](https://sspai.com/post/41558)
+
+[alfred3 结合 Bitbar - 简书](https://www.jianshu.com/p/f7ecba5e8c3a)
+
+[yigitkonur/write-into-menubar: Write whatever you want into OSX menubar by using BitBar + Alfred Powerpack.](https://github.com/yigitkonur/write-into-menubar)
 
 
 
@@ -287,6 +303,13 @@ http://www.jianshu.com/p/98f53faabbff
 ​	krunner 
 
 
+
+### SketchBook-绘制草图
+
+[Autodesk Sketchbook](https://www.sketchbook.com/)
+
+
+
 ### Mermaid - Markdown画图（方便画图）
 
 #### Mermaid安装
@@ -296,7 +319,7 @@ http://www.jianshu.com/p/98f53faabbff
 安装mermaid：yarn add mermaid 或 sudo yarn add mermaid
 ```
 
-[Mermaid官网t](https://mermaidjs.github.io)
+[Mermaid官网](https://mermaidjs.github.io)
 
 [Mermaid在线画图](https://mermaidjs.github.io/mermaid-live-editor)
 
